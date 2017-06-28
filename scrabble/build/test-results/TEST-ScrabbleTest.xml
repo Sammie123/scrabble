@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2017-06-28T21:08:00" hostname="epicodus-70.local" time="0.005">
+  <properties/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_10q" classname="ScrabbleTest" time="0.001"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_10z" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForTwoLetters_1b" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForTwoLetters_8d" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1a" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1e" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1i" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1l" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1n" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1o" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1r" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1s" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1t" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1u" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_2d" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_2g" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_3c" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_3m" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_3p" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_4f" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_4h" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_4v" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_4w" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_4y" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_5k" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_8j" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_8x" classname="ScrabbleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
