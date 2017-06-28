@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ScrabbleTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2017-06-28T21:08:00" hostname="epicodus-70.local" time="0.005">
+<testsuite name="ScrabbleTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2017-06-28T21:34:50" hostname="epicodus-70.local" time="0.005">
   <properties/>
   <testcase name="calculateScore_returnsScoreForSingleLetter_10q" classname="ScrabbleTest" time="0.001"/>
   <testcase name="calculateScore_returnsScoreForSingleLetter_10z" classname="ScrabbleTest" time="0.0"/>
